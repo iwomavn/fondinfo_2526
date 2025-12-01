@@ -1,5 +1,5 @@
 def main():
-    parole = {}
+    parole = {} # dizionario 
     lista = []
 
     with open("g2d.py", "r") as file:
